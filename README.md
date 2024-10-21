@@ -1,2 +1,3 @@
-# TomatoLeaf_CNN
-Using Different CNN models to identify Tomato Leaf Disease with high Accuracy
+# Tomato Leaf Disease Classifier using CNN
+Trying Different CNN models to identify the best model with high Accuracy
+
